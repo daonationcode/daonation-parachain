@@ -17,7 +17,7 @@ substrate-rpc-client = { path = "../../utils/frame/rpc/client" }
 sp-rpc = { version = "6.0.0", path = "../../primitives/rpc" }
 assert_cmd = "2.0.10"
 nix = "0.26.2"
-regex = "1.7.3"
+regex = "1.9.4"
 tokio = { version = "1.22.0", features = ["full"] }
 node-primitives = { path = "../../bin/node/primitives" }
 node-cli = { path = "../../bin/node/cli" }
