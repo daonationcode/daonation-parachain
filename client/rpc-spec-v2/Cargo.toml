@@ -47,4 +47,4 @@ sp-maybe-compressed-blob = { version = "4.1.0-dev", path = "../../primitives/may
 sc-block-builder = { version = "0.10.0-dev", path = "../block-builder" }
 sc-service = { version = "0.10.0-dev", features = ["test-helpers"], path = "../service" }
 assert_matches = "1.3.0"
-pretty_assertions = "1.2.1"
+pretty_assertions = "1.4.0"
